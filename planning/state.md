@@ -1,7 +1,7 @@
 # State — Current Project Status
 
 ## Active Sprint
-**Sprint 3:** Colab fine-tuning + baseline → evaluation outputs (Milestones 4–5) — COMPLETE, ready to commit
+**Sprint 4:** README evaluation report + demo (Milestone 6) — README done; demo video remaining
 
 ## Status
 - [x] Scaffold created
@@ -21,11 +21,12 @@
 - [x] Fine-tuning completed (Sprint 3) — distilbert 66.7% after retune (DEC-009)
 - [x] evaluation_results.json downloaded + committed (Sprint 3)
 - [x] confusion_matrix.png downloaded + committed (Sprint 3)
-- [ ] README.md complete with evaluation report (Sprint 4)
-- [ ] Demo video recorded (Sprint 4)
+- [x] README.md complete with evaluation report (Sprint 4)
+- [ ] Demo video recorded (Sprint 4) — HUMAN TASK, remaining
 
 ## Currently Blocked
-- Nothing. Sprint 3 complete — fine-tuned model beats baseline (RISK-008 resolved). Next: Sprint 4 README + demo.
+- Demo video (3–5 min) is the only remaining deliverable — must be recorded by the human.
+  README + all repo files are complete. Final submission commit pending demo.
 
 ## Sprint 2 Tracking
 
