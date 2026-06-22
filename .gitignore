@@ -9,6 +9,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
+# Colab notebook (lives in Google Drive, not the repo)
+notebook/
+
 # OS / editor
 .DS_Store
 Thumbs.db
