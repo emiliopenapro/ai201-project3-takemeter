@@ -7,6 +7,7 @@ model, compared against a zero-shot Groq baseline.
 - **Dataset:** [`data/labeled_posts.csv`](data/labeled_posts.csv) — 200 hand-labeled r/soccer posts
 - **Outputs:** [`evaluation_results.json`](evaluation_results.json), [`confusion_matrix.png`](confusion_matrix.png)
 - **Design notes:** [`planning.md`](planning.md), [`docs/label-taxonomy.md`](docs/label-taxonomy.md)
+- **Demo video:** A 3–5 minute walkthrough (live classifications with label + confidence, one correct and one incorrect prediction narrated, and an evaluation-report overview) was recorded and submitted via the course portal.
 
 ---
 

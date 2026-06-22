@@ -1,7 +1,7 @@
 # State — Current Project Status
 
 ## Active Sprint
-**Sprint 4:** README evaluation report + demo (Milestone 6) — README done; demo video remaining
+**ALL SPRINTS COMPLETE** — project ready for submission (2026-06-22).
 
 ## Status
 - [x] Scaffold created
@@ -22,11 +22,10 @@
 - [x] evaluation_results.json downloaded + committed (Sprint 3)
 - [x] confusion_matrix.png downloaded + committed (Sprint 3)
 - [x] README.md complete with evaluation report (Sprint 4)
-- [ ] Demo video recorded (Sprint 4) — HUMAN TASK, remaining
+- [x] Demo video recorded (Sprint 4) — submitted via course portal
 
 ## Currently Blocked
-- Demo video (3–5 min) is the only remaining deliverable — must be recorded by the human.
-  README + all repo files are complete. Final submission commit pending demo.
+- Nothing. All four sprints complete. Repo + README + demo done; ready for portal submission.
 
 ## Sprint 2 Tracking
 
